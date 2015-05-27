@@ -6,7 +6,7 @@ Every online store needs a shopping cart and a way to take payment from the cust
 
 ## Source Files Description
 
-EXAMPLE: The source repository for this course contains folders for the sample code created in each lesson. Each lesson contains one or more complete Visual Studio projects, ready to run and to experiment with.
+The source repository for this course contains folders for the sample code created in each lesson. Each lesson contains one or more complete Visual Studio projects, ready to run and to experiment with.
 
 
 ------
