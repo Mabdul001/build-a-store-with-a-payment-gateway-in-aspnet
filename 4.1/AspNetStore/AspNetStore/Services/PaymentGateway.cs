@@ -8,6 +8,7 @@ namespace AspNetStore.Services
 {
     public class PaymentGateway : IGateway
     {
+        /*These API keys have been disabled. Always keep API keys private! Never share them with others or commit them to a public GitHub repository.*/
         private readonly BraintreeGateway _gateway = new BraintreeGateway
         {
           Environment = Braintree.Environment.SANDBOX,
